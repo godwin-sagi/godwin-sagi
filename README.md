@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @godwin-sagi
-- 👀 I’m interested in Science & Solar
+- 👀 I’m interested in Science & Universe
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate in Data Science
 - 📫 How to reach me godwinsagi@gmail.com
