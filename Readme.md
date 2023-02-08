@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @godwin-sagi
+## 👋 Hi, I’m Godwin Sagi
 ### 👀 I’m interested in Science & Universe
 ### 🌱 I’m currently learning ML
 ### 💞️ I’m looking to collaborate in Data Science
